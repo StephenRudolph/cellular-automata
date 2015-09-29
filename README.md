@@ -5,7 +5,7 @@ See http://mathworld.wolfram.com/ElementaryCellularAutomaton.html for more infor
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/StephenRudolph/cellular-automata.
 
 ## Usage
 
@@ -25,6 +25,7 @@ Odd numbered rules are not properly handled.
 ## Examples
 
 (-main 126 15)
+
 ◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◼◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻
 ◻◻◻◻◻◻◻◻◻◻◻◻◻◻◼◼◼◻◻◻◻◻◻◻◻◻◻◻◻◻◻
 ◻◻◻◻◻◻◻◻◻◻◻◻◻◼◼◻◼◼◻◻◻◻◻◻◻◻◻◻◻◻◻

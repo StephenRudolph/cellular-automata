@@ -56,7 +56,7 @@
 
 (defn -main
   [& args]
-  (let [rule-num (nth args 0 30)
-        generations (nth args 1 16)]
+  (let [rule-num (Integer/parseInt (nth args 0 "126"))
+        generations (Integer/parseInt (nth args 1 "15"))]
     (pprint-generations
       (run-cellular-automata #{0} (create-rule-fn rule-num) generations))))
