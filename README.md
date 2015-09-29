@@ -24,7 +24,7 @@ Odd numbered rules are not properly handled.
 
 ## Examples
 
-(-main 126 15)
+    $ java -jar cellular-automata-0.1.0-standalone.jar 126 15
 
 ◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◼◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻
 ◻◻◻◻◻◻◻◻◻◻◻◻◻◻◼◼◼◻◻◻◻◻◻◻◻◻◻◻◻◻◻
